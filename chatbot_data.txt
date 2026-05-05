@@ -1,0 +1,66 @@
+Name: Priyanka C Meti
+Role: AI Data Analyst
+
+About Me:
+I am an AI Data Analyst with hands-on experience in SQL, Python, and Power BI. I have worked on real-world datasets with over 100K records, focusing on improving data quality, automating workflows, and building dashboards for business insights.
+
+Skills:
+- SQL (Joins, Aggregations, Filtering, CTEs)
+- Python (Pandas, NumPy, Scikit-learn)
+- Power BI (DAX, Data Modeling, KPI Dashboards)
+- Machine Learning, EDA, Feature Engineering, ETL Pipelines
+
+Experience:
+
+1. Infotact Solutions (Data Analytics Intern)
+- Worked with 100K+ records using SQL and Python
+- Improved data accuracy by 25% using validation and cleaning techniques
+- Automated reporting workflows, reducing manual work by 30%
+- Built Power BI dashboards for KPI tracking
+
+Explanation:
+I handled large datasets, ensured data quality through validation rules, and created dashboards to help stakeholders make decisions.
+
+2. Rubixe (Data Analyst Intern)
+- Performed EDA using Python and SQL
+- Cleaned and transformed datasets
+- Supported dashboard creation
+
+Projects:
+
+1. Hotel Booking Prediction System
+Problem:
+High cancellation rates in hotel bookings.
+
+Approach:
+- Analyzed 100K+ booking records
+- Performed feature engineering
+- Built classification model using scikit-learn
+
+Outcome:
+- Achieved 85% accuracy
+- Identified high-risk bookings
+- Built Streamlit dashboard for predictions
+
+2. Lead Quality Optimization
+Problem:
+Low-quality leads affecting ROI.
+
+Approach:
+- Analyzed 3,000+ leads dataset
+- Performed segmentation analysis
+- Built pipeline: CSV → cleaning → feature engineering → dashboard
+
+Outcome:
+- Improved lead quality from 44.6% to 49.2%
+- Identified high-performing segment
+
+3. AI Health Data Pipeline
+- Built ETL pipeline for health data
+- Used FastAPI for real-time processing
+- Applied validation checks
+
+Strengths:
+- Strong problem-solving using data
+- Ability to convert data into business insights
+- Experience handling large datasets
